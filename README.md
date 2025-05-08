@@ -1,1 +1,2 @@
-# CSE3118-Mnm-project
+# CSE3118-Mnm-project![Air Noise_Pollution System](https://github.com/user-attachments/assets/db79b871-8a5f-4fda-a748-b92501ed9dae)
+'Air & Noise Pollution and Detection System 'is the project of CSE 3118 Microprocessor & Microcontroller Lab .In this project we have used Arduino Uno,Along with Wifi module,Sound Sensor Lm393,Gas Sensor Mq-2 ,Lcd Display and Power Source to powerup the components .Our project can detect  the levels of Air and Noise with the help of the sensors and and show then in the display .If the value is higher than the threshold valur then the Lights will be blown and an alert message will be shown in the display.
